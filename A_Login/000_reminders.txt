@@ -1,0 +1,4 @@
+At login must set:
+
+$_SESSION['Pidnum'];
+$_SESSION['userName'];
